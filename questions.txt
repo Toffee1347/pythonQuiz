@@ -1,0 +1,25 @@
+What is the longest that an elephant has ever lived? (That we know of)
+49 years
+86 years
+142 years
+b
+How many rings are on the Olympic flag?
+4
+5
+7
+b
+What is a tarsier?
+A primate
+A lizard
+A bird
+a
+How did Spider-Man get his powers?
+Born with them
+Woke up with them after a strange dream
+Bitten by a radioactive spider
+c
+What language was this programed in?
+HTML
+Java
+Python
+c
